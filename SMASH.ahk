@@ -11,7 +11,7 @@ DetectHiddenWindows, Off
 #Include VA.ahk
 
 ; Tray Menu
-Menu, Tray, Tip, % "SMASH (Silence, Mute, and Save Hiney)"
+Menu, Tray, Tip, % "SMASH (Silence, Minimize, and Save Hiney)"
 Menu, Tray, NoStandard
 Menu, Tray, Add, &Casual Mode, ToggleCasualMode
 Menu, Tray, Add, &Insane Mode, ToggleInsaneMode

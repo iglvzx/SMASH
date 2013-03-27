@@ -1,7 +1,7 @@
 ; Initialize -------------------------------------------------------------------
 
 ; Script Settings
-#SingleInstance #Force
+#SingleInstance Force
 SetBatchLines, -1
 SetWinDelay, -1
 SetKeyDelay, -1
